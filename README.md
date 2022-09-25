@@ -11,7 +11,7 @@ Data analysis of raw world electricity data using Python, SQL and PowerBi
 - WorldElectricityProject.bak is backup of database containing all the tables with appropriate relations
 - PowerBi Visual.pbix is the powerbi file containg visualizations created from data
 
-- Refer World_Electricity.pptx for more detailed code explaination
+- *Refer World_Electricity.pptx for more detailed code explaination*
 
 ### PowerBi ScreenShots
 <p align = "center"><img src="/Dashboard 1 ScreenShot.JPG" width=800 height = 500></p>
